@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.17">
+  <compounddef id="namespaceutils" kind="namespace" language="Python">
+    <compoundname>utils</compoundname>
+      <sectiondef kind="func">
+      <memberdef kind="function" id="namespaceutils_1a1c66ed68b99c6ba0adae9daf46d58836" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>def</type>
+        <definition>def utils.line_prepender</definition>
+        <argsstring>(filename, text)</argsstring>
+        <name>line_prepender</name>
+        <param>
+          <type>filename</type>
+          <defname>filename</defname>
+        </param>
+        <param>
+          <type>text</type>
+          <defname>text</defname>
+        </param>
+        <briefdescription>
+<para>Adds content at the start of a file. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>filename</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The file </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>text</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Content to be added </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/robert/Workshop/Licenser/utils.py" line="22" column="1" bodyfile="/home/robert/Workshop/Licenser/utils.py" bodystart="22" bodyend="27"/>
+      </memberdef>
+      <memberdef kind="function" id="namespaceutils_1a66ca49f0abd602f5e020390520675ee0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>def</type>
+        <definition>def utils.get_content</definition>
+        <argsstring>(filename)</argsstring>
+        <name>get_content</name>
+        <param>
+          <type>filename</type>
+          <defname>filename</defname>
+        </param>
+        <briefdescription>
+<para>Gets content from a file. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>filename</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The file </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/robert/Workshop/Licenser/utils.py" line="30" column="1" bodyfile="/home/robert/Workshop/Licenser/utils.py" bodystart="30" bodyend="35"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para>Contains utility functions </para>
+    </detaileddescription>
+    <location file="/home/robert/Workshop/Licenser/utils.py" line="1" column="1"/>
+  </compounddef>
+</doxygen>

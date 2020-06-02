@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.17">
+  <compounddef id="gpl3-header_8txt" kind="file" language="C++">
+    <compoundname>gpl3-header.txt</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="gpl3-header_8txt_1a6d1def9652747061a8d94b874b4d8cb6" prot="public" static="no" mutable="no">
+        <type>This program is free</type>
+        <definition>This program is free software</definition>
+        <argsstring></argsstring>
+        <name>software</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/robert/Workshop/Licenser/gpl3-header.txt" line="1" column="22" bodyfile="/home/robert/Workshop/Licenser/gpl3-header.txt" bodystart="3" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="gpl3-header_8txt_1a1de2f1427e7c24bd259d58045d343550" prot="public" static="no" mutable="no">
+        <type>This program is free either version of the</type>
+        <definition>This program is free either version of the License</definition>
+        <argsstring></argsstring>
+        <name>License</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/robert/Workshop/Licenser/gpl3-header.txt" line="3" column="25" bodyfile="/home/robert/Workshop/Licenser/gpl3-header.txt" bodystart="3" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="gpl3-header_8txt_1a2466cce45b96a7e19c69858bc66cf9a5" prot="public" static="no" mutable="no">
+        <type>This program is free either version of the but WITHOUT ANY</type>
+        <definition>This program is free either version of the but WITHOUT ANY WARRANTY</definition>
+        <argsstring></argsstring>
+        <name>WARRANTY</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/robert/Workshop/Licenser/gpl3-header.txt" line="6" column="17" bodyfile="/home/robert/Workshop/Licenser/gpl3-header.txt" bodystart="6" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="gpl3-header_8txt_1af522fe7355528e78fd38f07dbfcc9d52" prot="public" static="no" mutable="no">
+        <type>without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE See the GNU General Public License for more details You should have received a copy of the GNU General Public License along with this program If</type>
+        <definition>without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE See the GNU General Public License for more details You should have received a copy of the GNU General Public License along with this program If not</definition>
+        <argsstring></argsstring>
+        <name>not</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/robert/Workshop/Licenser/gpl3-header.txt" line="10" column="29" bodyfile="/home/robert/Workshop/Licenser/gpl3-header.txt" bodystart="10" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="func">
+      <memberdef kind="function" id="gpl3-header_8txt_1a1032a5ed813bdea4efa9639d006ab7f9" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>This program is free either version of the</type>
+        <definition>This program is free either version of the or</definition>
+        <argsstring>(at your option) any later version. This program is distributed in the hope that it will be useful</argsstring>
+        <name>or</name>
+        <param>
+          <type>at your</type>
+          <declname>option</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/robert/Workshop/Licenser/gpl3-header.txt" line="3" column="33"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">This<sp/>program<sp/>is<sp/>free<sp/>software:<sp/>you<sp/>can<sp/>redistribute<sp/>it<sp/>and/or<sp/>modify</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">it<sp/>under<sp/>the<sp/>terms<sp/>of<sp/>the<sp/>GNU<sp/>General<sp/>Public<sp/>License<sp/>as<sp/>published<sp/>by</highlight></codeline>
+<codeline lineno="3"><highlight class="normal">the<sp/>Free<sp/>Software<sp/>Foundation,<sp/>either<sp/>version<sp/>3<sp/>of<sp/>the<sp/>License,<sp/>or</highlight></codeline>
+<codeline lineno="4"><highlight class="normal">(at<sp/>your<sp/>option)<sp/>any<sp/>later<sp/>version.</highlight></codeline>
+<codeline lineno="5"><highlight class="normal">This<sp/>program<sp/>is<sp/>distributed<sp/>in<sp/>the<sp/>hope<sp/>that<sp/>it<sp/>will<sp/>be<sp/>useful,</highlight></codeline>
+<codeline lineno="6"><highlight class="normal">but<sp/>WITHOUT<sp/>ANY<sp/>WARRANTY;<sp/>without<sp/>even<sp/>the<sp/>implied<sp/>warranty<sp/>of</highlight></codeline>
+<codeline lineno="7"><highlight class="normal">MERCHANTABILITY<sp/>or<sp/>FITNESS<sp/>FOR<sp/>A<sp/>PARTICULAR<sp/>PURPOSE.<sp/><sp/>See<sp/>the</highlight></codeline>
+<codeline lineno="8"><highlight class="normal">GNU<sp/>General<sp/>Public<sp/>License<sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>more<sp/>details.</highlight></codeline>
+<codeline lineno="9"><highlight class="normal">You<sp/>should<sp/>have<sp/>received<sp/>a<sp/>copy<sp/>of<sp/>the<sp/>GNU<sp/>General<sp/>Public<sp/>License</highlight></codeline>
+<codeline lineno="10"><highlight class="normal">along<sp/>with<sp/></highlight><highlight class="keyword">this</highlight><highlight class="normal"><sp/>program.<sp/><sp/>If<sp/>not,<sp/>see<sp/>&lt;https:</highlight><highlight class="comment">//www.gnu.org/licenses/&gt;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="11"><highlight class="normal"></highlight></codeline>
+    </programlisting>
+    <location file="/home/robert/Workshop/Licenser/gpl3-header.txt"/>
+  </compounddef>
+</doxygen>

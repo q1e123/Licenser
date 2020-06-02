@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.17">
+  <compounddef id="namespacelicenser" kind="namespace" language="Python">
+    <compoundname>licenser</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="namespacelicenser_1aa2b13f4a6ab2c53e33b3cd4268a7ef61" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>licenser.e</definition>
+        <argsstring></argsstring>
+        <name>e</name>
+        <initializer>=  <ref refid="classengine_1_1_engine" kindref="compound">Engine</ref>(&quot;settings&quot;,sys.argv[1])</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/robert/Workshop/Licenser/licenser.py" line="19" column="1" bodyfile="/home/robert/Workshop/Licenser/licenser.py" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para>Main package </para>
+    </detaileddescription>
+    <location file="/home/robert/Workshop/Licenser/licenser.py" line="1" column="1"/>
+  </compounddef>
+</doxygen>

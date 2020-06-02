@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.17">
+  <compound refid="classengine_1_1_engine" kind="class"><name>engine::Engine</name>
+    <member refid="classengine_1_1_engine_1a332bf88550b482f5ff3a4cd154190c9c" kind="variable"><name>settings</name></member>
+    <member refid="classengine_1_1_engine_1a9ef8ab8e9ebb4b5bd2007020f5e18fce" kind="variable"><name>project</name></member>
+    <member refid="classengine_1_1_engine_1a1e49084e552ae22089c5ffdc5b551074" kind="function"><name>__init__</name></member>
+    <member refid="classengine_1_1_engine_1a4a0d85ebc45d79963d674ecffbb48e3c" kind="function"><name>license</name></member>
+    <member refid="classengine_1_1_engine_1a7a8892d3bdc845ca198a8dbe238527f7" kind="function"><name>__get_settings</name></member>
+  </compound>
+  <compound refid="namespaceengine" kind="namespace"><name>engine</name>
+  </compound>
+  <compound refid="namespacelicenser" kind="namespace"><name>licenser</name>
+    <member refid="namespacelicenser_1aa2b13f4a6ab2c53e33b3cd4268a7ef61" kind="variable"><name>e</name></member>
+  </compound>
+  <compound refid="namespaceutils" kind="namespace"><name>utils</name>
+    <member refid="namespaceutils_1a1c66ed68b99c6ba0adae9daf46d58836" kind="function"><name>line_prepender</name></member>
+    <member refid="namespaceutils_1a66ca49f0abd602f5e020390520675ee0" kind="function"><name>get_content</name></member>
+  </compound>
+  <compound refid="engine_8py" kind="file"><name>engine.py</name>
+  </compound>
+  <compound refid="gpl3-header_8txt" kind="file"><name>gpl3-header.txt</name>
+    <member refid="gpl3-header_8txt_1a6d1def9652747061a8d94b874b4d8cb6" kind="variable"><name>software</name></member>
+    <member refid="gpl3-header_8txt_1a1de2f1427e7c24bd259d58045d343550" kind="variable"><name>License</name></member>
+    <member refid="gpl3-header_8txt_1a2466cce45b96a7e19c69858bc66cf9a5" kind="variable"><name>WARRANTY</name></member>
+    <member refid="gpl3-header_8txt_1af522fe7355528e78fd38f07dbfcc9d52" kind="variable"><name>not</name></member>
+    <member refid="gpl3-header_8txt_1a1032a5ed813bdea4efa9639d006ab7f9" kind="function"><name>or</name></member>
+  </compound>
+  <compound refid="licenser_8py" kind="file"><name>licenser.py</name>
+  </compound>
+  <compound refid="gpl-3_80_8txt" kind="file"><name>gpl-3.0.txt</name>
+    <member refid="gpl-3_80_8txt_1a457a10a82940188536c43461775a7244" kind="variable"><name>Version</name></member>
+    <member refid="gpl-3_80_8txt_1a794d8ac15036e587c40267629fb767ec" kind="variable"><name>not</name></member>
+    <member refid="gpl-3_80_8txt_1aa3ed601dee313116393d6e5efc58d658" kind="function"><name>Copyright</name></member>
+  </compound>
+  <compound refid="utils_8py" kind="file"><name>utils.py</name>
+  </compound>
+  <compound refid="dir_c403b3e4ab0a25c90f6e381a1fd9d549" kind="dir"><name>/home/robert/Workshop/Licenser/Licenses</name>
+  </compound>
+</doxygenindex>

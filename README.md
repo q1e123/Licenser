@@ -16,5 +16,5 @@ You need to edit the settings file to fit your needs.
 
 ## License
 
-This project is licensed under the AGPL License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the AGPL License - see the [LICENSE](LICENSE) file for details
 

@@ -48,7 +48,7 @@ class Engine:
         headers = {}
         headers[".c"] = "/*\n" + author + "\n" + lic_header + "*/\n"
         headers[".cpp"] = "/*\n" + author + "\n" + lic_header + "*/\n"
-        headers[".py"] = "# " + author + "\n# " + lic_header.replace("\n","\n# " )[:-5] + "\n"
+        headers[".py"] = "# " + author + "\n# " + lic_header.replace("\n","\n# " )[:-4] + "\n"
         
         dir_path = os.path.dirname(os.path.realpath(__file__)) + "/"  +self.project
         
@@ -61,7 +61,11 @@ class Engine:
                         ff = open(f,"r")
                         lines = ff.readlines()
                         ff.close()
-                        if "Copyright" not in lines[0] and "Created by" not in lines[0] and "Copyright" not in lines[1] and "Created by" not in lines[1]:
+                        if len(lines) >= 2:
+                            check2 = "Copyright" not in lines[1] and "Created by" not in lines[1]
+                        else:
+                            check2 = True
+                        if "Copyright" not in lines[0] and "Created by" not in lines[0] and check2:
                             cnt = headers[extension]
                             utils.line_prepender(f,cnt)
 
